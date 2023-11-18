@@ -5,9 +5,11 @@ usei use client
 usei hooks
 usei react router para navegação
 usei hook pathname para identificar onde o usuario esta 
+usei hoock segment como alternativa para o pathname
 
 ## Oque aprendi?
 Aprendi muito mais sobre navegação no react e next.js
 aprendi mais funcionalidades do next link
 aprendi o tipo de uso para o 'use client'
 aprendi usar as hooks router para navegação, e pathname para verificar a rota que o usuario ta
+aprendi usar o useSegment para verificar onde o usuario esta ativo
